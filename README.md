@@ -30,6 +30,9 @@ Dependencies are listed in [`requirements.txt`](requirements.txt).
 ---
 
 ## 📂 Project Structure
+<details>
+<summary>Click to expand</summary>
+
 ```plaintext
 ├── main.py              # Entry point – runs webcam app
 ├── bg_utils.py          # Helper for background replacement
@@ -39,8 +42,9 @@ Dependencies are listed in [`requirements.txt`](requirements.txt).
 ├── images/              # Background images (user-provided)
 ├── filters/             # Filter PNGs (e.g., cat ears, glasses)
 └── .gitignore           # Ignore env/, __pycache__/, yolov11/
+```
+</details> 
 
----
 
 ## 🎮 Controls
 - `1` → Previous background  
