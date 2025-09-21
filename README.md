@@ -30,15 +30,15 @@ Dependencies are listed in [`requirements.txt`](requirements.txt).
 ---
 
 ## 📂 Project Structure
-.
-├── main.py # Entry point – runs webcam app
-├── bg_utils.py # Helper for background replacement
-├── filters_util.py # PNG overlay & filter utilities
-├── yolo_utils.py # YOLO segmentation mask extraction
-├── requirements.txt # Dependencies
-├── images/ # Background images (user-provided)
-├── filters/ # Filter PNGs (e.g., cat ears, glasses)
-└── .gitignore # Ignore env/, pycache/, yolov11/
+   .
+   ├── main.py # Entry point – runs webcam app
+   ├── bg_utils.py # Helper for background replacement
+   ├── filters_util.py # PNG overlay & filter utilities
+   ├── yolo_utils.py # YOLO segmentation mask extraction
+   ├── requirements.txt # Dependencies
+   ├── images/ # Background images (user-provided)
+   ├── filters/ # Filter PNGs (e.g., cat ears, glasses)
+   └── .gitignore # Ignore env/, pycache/, yolov11/
 
 
 ---
